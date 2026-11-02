@@ -1,0 +1,104 @@
+{
+  "web": {
+    "slug": "ubik-cafe",
+    "repository": "https://github.com/profondosud/rivela-ubik-cafe",
+    "pages_url": "https://profondosud.github.io/rivela-ubik-cafe/",
+    "pages_status": "built",
+    "home": {
+      "url": "https://profondosud.github.io/rivela-ubik-cafe/",
+      "status": 200,
+      "bytes": 7994
+    },
+    "assets": [
+      {
+        "url": "https://profondosud.github.io/rivela-ubik-cafe/styles.css",
+        "status": 200,
+        "bytes": 15713
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-ubik-cafe/images/ubik-01.webp",
+        "status": 200,
+        "bytes": 179094
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-ubik-cafe/images/ubik-02.webp",
+        "status": 200,
+        "bytes": 148582
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-ubik-cafe/images/ubik-03.webp",
+        "status": 200,
+        "bytes": 213580
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-ubik-cafe/images/ubik-04.webp",
+        "status": 200,
+        "bytes": 99960
+      }
+    ],
+    "cliente": "Ubik Café"
+  },
+  "browser": {
+    "slug": "ubik-cafe",
+    "sizes": [
+      {
+        "brokenImages": [],
+        "client": 305,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 305,
+        "viewport": 320
+      },
+      {
+        "brokenImages": [],
+        "client": 375,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 375,
+        "viewport": 390
+      },
+      {
+        "brokenImages": [],
+        "client": 753,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 753,
+        "viewport": 768
+      },
+      {
+        "brokenImages": [],
+        "client": 1265,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 1265,
+        "viewport": 1280
+      }
+    ]
+  },
+  "mobile": {
+    "slug": "ubik-cafe",
+    "focus": {
+      "focusVisible": true,
+      "outline": "solid",
+      "tag": "A"
+    },
+    "contact": {
+      "hash": "#visita",
+      "mobileAction": [
+        {
+          "height": 52,
+          "href": "tel:+34963741255",
+          "visible": true
+        }
+      ],
+      "overflow": false,
+      "phone": [
+        "tel:+34963741255",
+        "tel:+34963741255",
+        "tel:+34963741255",
+        "tel:+34963741255",
+        "tel:+34963741255"
+      ]
+    }
+  }
+}
